@@ -1,7 +1,7 @@
 // Stefan Patrascu
 // spatrascu@csu.fullerton.edu
 // @spatrascu
-// partner: @ashton
+// partner: @ashtontorres465
 
 #include <iostream>
 #include <string>
