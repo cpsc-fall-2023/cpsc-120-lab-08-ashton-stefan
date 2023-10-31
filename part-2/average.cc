@@ -8,7 +8,7 @@
 #include <vector>
 
 int main(int argc, char* argv[]) {
-  std::vector<std::string> arguments{argv, argv + argc};
+  std::vector<std::string> arguments(argv, argv + argc);
 
   if (argc < 2) {
     std::cout << "Error: please provide an argument";
